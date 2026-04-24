@@ -1,0 +1,20 @@
+# Backend
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+
+# LangChain — orquestração do pipeline RAG
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-ollama==0.2.3
+
+# Vector store local
+chromadb==0.6.3
+
+# Frontend
+streamlit==1.41.1
+
+# HTTP client (frontend → backend)
+httpx==0.28.1
+
+# Utilitários
+python-dotenv==1.0.1

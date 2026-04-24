@@ -1,0 +1,23 @@
+# Ambiente virtual
+venv/
+
+# Vector store gerado pelo ingest.py
+chroma_db/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Variáveis de ambiente
+.env
+
+# Streamlit
+.streamlit/
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
