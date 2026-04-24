@@ -96,7 +96,7 @@ Quando o RAG está **desligado**, apenas as etapas **1** e **5** são executadas
 
 ```bash
 # 1. Clone o repositório
-git clone <url-do-repo>
+git clone https://github.com/TheElectron/rag-chatbot.git
 cd chatbot-rag
 
 # 2. Rode o script de setup (cria venv + baixa modelos Ollama)
